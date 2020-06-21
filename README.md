@@ -13,3 +13,7 @@ Developed quickly so can be vastly improved upon.
  * [Linecache](https://docs.python.org/3/library/linecache.html) - Useful line grabber
  * [Adjectives List](https://gist.github.com/hugsy/8910dc78d208e40de42deb29e62df913) - A invaluable source of english adjectives
  * [Noun List](https://gist.github.com/davidbalbert/ac7b813f498de4a1b02e) - A invaluable source of english nouns
+
+## Authors:
+
+* **Carl Slatter** - *Creation* - [Carlslatter16](https://github.com/carlslatter16)
